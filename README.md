@@ -1,2 +1,2 @@
-# Data-Integration-Business-Intelligence
-Data Integration and Business Intelligence Project
+# Data-Warehosuing-Business-Intelligence
+Data Warehousing and Business Intelligence Project
